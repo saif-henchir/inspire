@@ -200,8 +200,8 @@ print(thislist)
 ###############################################recherch #######################################################
 
 
-chaine ="Glace"
-#chaine = input('la chaine : ')
+
+chaine = input('la chaine : ')
 #print (mydata)
 
 def verif(list, chaine):
